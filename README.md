@@ -1,4 +1,4 @@
-# CrimeAnalysisInVancouver
+# Crime_Analysis_In_Vancouver
 Crime is the main target of the police. Crime happens every day in every city. If it is possible to find a rule when and where a crime may occur, it can help the police to deploy police force. So that the police can get to the scene faster to increase the chances of solving a crime or stop a suspect in the process of committing a crime. Therefore, I analyzed the crime data in Vancouver and try to find some trend to help the police to respond to crime effectively.
 1. In this project, I applied data from: https://www.kaggle.com/datasets/wosaku/crime-in-vancouver, which is an open dataset contains 530,652 records from 2003-01-01 to 2017-07-13. I also find shape file from https://opendata.vancouver.ca/explore/dataset/local-area-boundary/map/?disjunctive.name&location=12,49.2137,-123.14708 to visualize the regional characteristics of crime on Tableau.
 2. I joined the crime dataset with sunrise and sunset time to find the time character of the crime.
